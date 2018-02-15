@@ -1,0 +1,60 @@
+body {
+  background-color: #00000;
+  font-family: 'Merriweather';
+}
+
+title {
+  text-align: center;
+}
+
+#joj-image {
+  text-align:center;
+}
+
+#joj-image img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.education {
+  font-family:'Courier New';
+  font-size: 8px;
+}
+
+#experience-section {
+  font-size:8px;
+}
+
+#icon-section{
+  text-align: center;
+}
+
+#icon-section .icon{
+  width: 50px;
+  height: 50px;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+h1 {
+  font-family: 'Merriweather';
+  font-variant: small-caps;
+  width:100%;
+  vertical-align: middle;
+  text-align: center;
+  margin: 2px;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+

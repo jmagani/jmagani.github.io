@@ -15,6 +15,12 @@ title {
     border-radius: 50%;
     width: 200px;
     height: 200px;
+    transition: 1s ease;
+}
+
+#joj-image img:hover {
+  transform: rotate(360deg);
+
 }
 
 .education {
